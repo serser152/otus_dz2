@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+requests
+pytest
+pre-commit
+pandas
+numpy
+scikit-learn
